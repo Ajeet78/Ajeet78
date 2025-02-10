@@ -16,8 +16,11 @@
 
 ## 💼 About Me
 🎯 **Current Role:** App Developer at Voltametry Instruments  
+
 💡 **Passion:** Building innovative Android applications with a focus on clean architecture, user experience, and cutting-edge technologies.  
+
 📱 **Experience:** Proven track record in developing and deploying successful mobile apps, from concept to Play Store release.  
+
 🛠 **Expertise:** Java, Kotlin, Firebase, TensorFlow, OpenCV, Git, and UI/UX Design.  
 
 ---
